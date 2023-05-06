@@ -1,8 +1,9 @@
 # intel-oneAPI
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Code Paradise
+#### Problem Statement - : Object Detection For Autonomous Vehicles.
+
+#### Team Leader Email - gautamtiti123@gmail.com
 
 ## A Brief of the Prototype:
   This section must include UML Daigrms and prototype description
